@@ -65,7 +65,7 @@ The repository provides the source code required to understand, configure, and r
 
 ## Project Structure
 
-```text
+```
 COGNI_CLAN/
 │
 ├── ai/
@@ -108,6 +108,8 @@ COGNI_CLAN/
 ├── .gitignore
 ├── README.md
 └── requirements.txt
+```
+
 
 # HOW TO RUN THE PROTOTYPE LOCALLY
 
