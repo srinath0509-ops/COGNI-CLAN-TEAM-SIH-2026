@@ -6,7 +6,7 @@
 
 **AI-Based Cognitive Gaming and Memory Assistance Platform for Elderly Dementia Patients in North Eastern Region (NER)**
 
-**Problem Statement ID:** [Add PS Number]
+**Problem Statement ID:** SIH26003
 
 **Team Name:** COGNI_CLAN
 
